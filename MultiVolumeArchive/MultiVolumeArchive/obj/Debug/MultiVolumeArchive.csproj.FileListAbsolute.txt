@@ -1,0 +1,14 @@
+C:\Users\VB\source\repos\MultiVolumeArchive\MultiVolumeArchive\bin\Debug\MultiVolumeArchive.exe.config
+C:\Users\VB\source\repos\MultiVolumeArchive\MultiVolumeArchive\bin\Debug\MultiVolumeArchive.exe
+C:\Users\VB\source\repos\MultiVolumeArchive\MultiVolumeArchive\bin\Debug\MultiVolumeArchive.pdb
+C:\Users\VB\source\repos\MultiVolumeArchive\MultiVolumeArchive\obj\Debug\MultiVolumeArchive.csprojAssemblyReference.cache
+C:\Users\VB\source\repos\MultiVolumeArchive\MultiVolumeArchive\obj\Debug\MainWindow.g.cs
+C:\Users\VB\source\repos\MultiVolumeArchive\MultiVolumeArchive\obj\Debug\App.g.cs
+C:\Users\VB\source\repos\MultiVolumeArchive\MultiVolumeArchive\obj\Debug\MultiVolumeArchive_MarkupCompile.cache
+C:\Users\VB\source\repos\MultiVolumeArchive\MultiVolumeArchive\obj\Debug\MainWindow.baml
+C:\Users\VB\source\repos\MultiVolumeArchive\MultiVolumeArchive\obj\Debug\MultiVolumeArchive.g.resources
+C:\Users\VB\source\repos\MultiVolumeArchive\MultiVolumeArchive\obj\Debug\MultiVolumeArchive.Properties.Resources.resources
+C:\Users\VB\source\repos\MultiVolumeArchive\MultiVolumeArchive\obj\Debug\MultiVolumeArchive.csproj.GenerateResource.cache
+C:\Users\VB\source\repos\MultiVolumeArchive\MultiVolumeArchive\obj\Debug\MultiVolumeArchive.csproj.CoreCompileInputs.cache
+C:\Users\VB\source\repos\MultiVolumeArchive\MultiVolumeArchive\obj\Debug\MultiVolumeArchive.exe
+C:\Users\VB\source\repos\MultiVolumeArchive\MultiVolumeArchive\obj\Debug\MultiVolumeArchive.pdb

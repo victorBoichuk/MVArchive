@@ -1,0 +1,22 @@
+﻿<Window x:Class="FirstWpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Многотомный архиватор" Height="250" Width="438.834">
+    
+
+    <Canvas Margin="180,78,328,121" RenderTransformOrigin="1.733,-1.5">
+        <Grid Height="32" Canvas.Left="-155" Canvas.Top="-50" Width="380">
+            <Button Content="Обзор" HorizontalAlignment="Left" VerticalAlignment="Top" Width="141" Click="Button_Click" Height="32" Margin="239,0,0,0"/>
+            <TextBox x:Name="textBlock" TextWrapping="Wrap"  Margin="0,0,141,0"/>
+            <ComboBox x:Name="cbx" Width="120" Canvas.Left="73" Height="26" Margin="249,55,11,-49"/>
+            <Label Content="Размер 1-го тома:" Canvas.Left="-155" Margin="-4,52,270,-52"/>
+            <TextBox x:Name="textBlock2" Height="26" TextWrapping="Wrap" Width="108" Canvas.Left="-35" Margin="129,55,143,-49"/>
+            <ProgressBar x:Name="progressBar" Minimum="0" Maximum="{Binding MAX}" Height="30" Canvas.Left="-155" Canvas.Top="50" Width="380" Margin="0,138,0,-136"/>
+            <Button Content="Создать архив" Canvas.Left="-156" Canvas.Top="40" Width="181" Height="35" Click="Button_Click_1" Margin="1,95,198,-98"/>
+            <Button Content="Восстановить файл" Canvas.Left="45" Canvas.Top="40" Width="180" Height="35" Click="Button_Click_2" Margin="200,94,0,-97"/>
+        </Grid>
+        
+
+    </Canvas>
+
+</Window>
